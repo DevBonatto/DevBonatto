@@ -8,11 +8,10 @@
 - 📧 E-mail para contato: lucca.scaquetti@hotmail.com
 
  <div align="center">
+  <h2> Social <h2>
   <a href="https://www.instagram.com/luccabzs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/lucca-scaquetti-672091240/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-##
 
 <div align="center">
   <picture>
@@ -28,9 +27,8 @@
   </picture>
 </div>
  
-<br>
- 
 <div align="center">
+  <h2> Skills </h2>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
