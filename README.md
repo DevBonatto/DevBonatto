@@ -2,7 +2,7 @@
   <h1> Olá 👋, me chamo Lucca Bonatto Zwaizdis Scaquetti </h1>
 </div>
 
-- 🔭 Trabalho como Front-End (React) e estou migrando também para o Back-End (Java e MySQL)
+- ☕ Trabalho como Front-End (React) e estou migrando também para o Back-End (Java e MySQL)
 - 🌱 Atualmente estou estudando React
 - 🚀 Meu objetivo é ser um programador Full Stack
 - 📧 E-mail para contato: lucca.scaquetti@hotmail.com
