@@ -39,14 +39,14 @@
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   </a>
+  <a href="https://br.wordpress.org/" target="_blank">
+    <img align="center" alt="WordPress" height="30" width="40" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg">
+  </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </a>
   <a href="https://tailwindcss.com/" target="_blank">
     <img align="center" alt="Tailwind CSS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg">
-  </a>
-  <a href="https://br.wordpress.org/" target="_blank">
-    <img align="center" alt="WordPress" height="30" width="40" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg">
   </a>
 </div>
 
