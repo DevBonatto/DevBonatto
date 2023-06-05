@@ -38,3 +38,6 @@
 </div>
 
 ##
+
+### 📈 Minhas contribuições no GitHub
+![Snake animation](https://github.com/jaiswaladi246/jaiswaladi246/blob/output/github-contribution-grid-snake.svg)
