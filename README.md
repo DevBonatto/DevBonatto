@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Olá 👋, me chamo Lucca Bonatto Zwaizdis Scaquetti </h1>
+  <h1> Olá👋, me chamo Lucca Bonatto Zwaizdis Scaquetti </h1>
 </div>
 
 - ☕ Trabalho como Front-End (React) e estou migrando também para o Back-End (Java e MySQL)
