@@ -37,6 +37,4 @@
   <img align="center" alt="Tailwind CSS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg">
 </div>
 
-##
-
 ![Snake animation](https://github.com/DevBonatto/DevBonatto/blob/output/github-contribution-grid-snake.svg)
