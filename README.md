@@ -15,7 +15,7 @@
 ##
 <br>
 
-<div aling="center">
+<div align="center">
  <picture>
   <source
   srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
