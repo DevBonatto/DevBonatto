@@ -15,7 +15,7 @@
 ##
 <br>
 <div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevBonatto&layout=compact&show_icons=true&theme=tokyonight&langs_count=8)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 </div>
  
 <div align="center">
