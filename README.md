@@ -18,7 +18,7 @@
 <div align="center">
  <picture>
   <source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DevBonatto&layout=compact&theme=tokyonight"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DevBonatto&layout=compact&theme=tokyonight&langs_count8"
   media="(prefers-color-scheme: dark)"
   />
   <source
