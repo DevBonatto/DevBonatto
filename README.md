@@ -31,7 +31,7 @@
 
 
 <div align="center">
-  <h2> Skills </h2>
+  <h3> Skills </h3>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"> 
     <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </a>
