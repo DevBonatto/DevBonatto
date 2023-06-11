@@ -4,7 +4,7 @@
 
 - ☕ Trabalho como Front-End (React) e estou migrando também para o Back-End (Java e MySQL)
 - 🌱 Atualmente estou estudando React
-- 🚀 Meu objetivo é ser um programador Full Stack
+- 🚀 Meu objetivo é ser um desenvolvedor Full Stack
 - 📧 E-mail para contato: lucca.scaquetti@hotmail.com
 
  <div align="center">
