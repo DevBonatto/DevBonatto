@@ -8,7 +8,7 @@
 - 📧 E-mail para contato: lucca.scaquetti@hotmail.com
 
  <div align="center">
-  <a href="https://www.twitch.tv/devbonatto" target="_blank"><img src="![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)"></a> 
+  <a href="https://www.twitch.tv/devbonatto" target="_blank"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"></a> 
 </div>
 
 ##
