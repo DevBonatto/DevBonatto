@@ -5,7 +5,7 @@
 - ☕ Trabalho como Front-End (React) e estou migrando também para o Back-End (Java e MySQL)
 - 🌱 Atualmente estou estudando React
 - 🚀 Meu objetivo é ser um desenvolvedor Full Stack
-- 📧 E-mail para contato: lucca.scaquetti@hotmail.com
+- 📧 E-mail para contato: devbonatto@gmail.com
 
  <div align="center">
   <a href="https://www.twitch.tv/devbonatto" target="_blank"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"></a> 
