@@ -31,7 +31,7 @@
 
 <div align="center">
   <h3> Skills </h3>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"> 
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank style="text-decoration: none"> 
     <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> 
