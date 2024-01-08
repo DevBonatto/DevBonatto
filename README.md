@@ -2,6 +2,7 @@
 <h1> Olá <img height="40" width="40" class="cadeado" src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="Animação de um aceno">, me chamo Lucca Bonatto </h1>
 </div>
 
+<h2>💫 Sobre mim:</h2>
 - ☕ Trabalho como Front-End (React) e estou migrando também para o Back-End (Java e MySQL)
 - 🌱 Atualmente estou estudando React
 - 🚀 Meu objetivo é ser um desenvolvedor Full Stack
