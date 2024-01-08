@@ -9,7 +9,9 @@
 - 🚀 Meu objetivo é ser um desenvolvedor Full Stack
 - 📧 E-mail para contato: contato@bzsdigital.com.br
 
- <div align="center">
+ <h2>🌐 Socials:</h2>
+
+ <div>
   <a href="https://www.twitch.tv/devbonatto" target="_blank"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"></a> 
 </div>
 
