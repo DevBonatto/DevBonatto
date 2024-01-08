@@ -3,11 +3,13 @@
 </div>
 
 <h2>💫 Sobre mim:</h2>
+<p>
 - ☕ Trabalho como Front-End (React) e estou migrando também para o Back-End (Java e MySQL)
 - 🌱 Atualmente estou estudando React
 - 🚀 Meu objetivo é ser um desenvolvedor Full Stack
 - 📧 E-mail para contato: contato@bzsdigital.com.br
-  
+</p>
+
  <div align="center">
   <a href="https://www.twitch.tv/devbonatto" target="_blank"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"></a> 
 </div>
