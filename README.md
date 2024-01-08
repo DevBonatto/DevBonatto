@@ -26,8 +26,7 @@
     <img align="center" alt="Tailwind CSS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg">
 </div>
 
-#
-<br>
+<h2>📊 GitHub Stats:</h2>
 
 <div align="center">
  <picture>
