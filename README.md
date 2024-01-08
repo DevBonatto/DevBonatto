@@ -1,5 +1,5 @@
 <div align="center">
-   Olá <img class="cadeado" src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="Animação de um aceno">, me chamo Lucca Bonatto
+<h1> Olá <img class="cadeado" src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="Animação de um aceno">, me chamo Lucca Bonatto </h1>
 </div>
 
 - ☕ Trabalho como Front-End (React) e estou migrando também para o Back-End (Java e MySQL)
