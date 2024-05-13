@@ -22,7 +22,7 @@
     <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="WordPress" height="30" width="40" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg">
-    <img align="center" alt="WordPress" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/java.svg">
+    <img align="center" alt="WordPress" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png">
 </div>
 
 <h2>📊 Status:</h2>
