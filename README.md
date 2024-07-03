@@ -2,20 +2,24 @@
 <h1> Olá <img height="40" width="40" class="cadeado" src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="Animação de um aceno">, me chamo Lucca Bonatto </h1>
 </div>
 
-<h2>💫 Sobre mim:</h2>
+<div align="center">
+ <h2>💫 Sobre mim:</h2>
+ 
+ - ☕ Trabalho como front-end e estou migrando também para o back-end.
+ - 🌱 Atualmente estou estudando Java, JavaScript, React e SQL.
+ - 🚀 Meu objetivo é ser um desenvolvedor Full Stack!
+ - 📧 E-mail para contato: contato@bzsdigital.com.br
+</div>
 
-- ☕ Trabalho como front-end e estou migrando também para o back-end.
-- 🌱 Atualmente estou estudando Java, JavaScript, React e SQL.
-- 🚀 Meu objetivo é ser um desenvolvedor Full Stack!
-- 📧 E-mail para contato: contato@bzsdigital.com.br
-
+<div align="center">
  <h2>🌐 Redes:</h2>
  
  <div>
   <a href="https://www.twitch.tv/devbonatto" target="_blank"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"></a> 
+ </div>
 </div>
 
-<div>
+<div align="center">
   <h2> 💻 Skills: </h2>  
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
