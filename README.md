@@ -4,8 +4,8 @@
 
 <h2>💫 Sobre mim:</h2>
 
-- ☕ Trabalho como Front-End (React) e estou migrando também para o Back-End (Java e SQL)
-- 🌱 Atualmente estou estudando React
+- ☕ Trabalho como front-end (React) e estou migrando também para o back-end (Java e SQL)
+- 🌱 Atualmente estou estudando Java, JavaScript, React e MySQL.
 - 🚀 Meu objetivo é ser um desenvolvedor Full Stack
 - 📧 E-mail para contato: contato@bzsdigital.com.br
 
