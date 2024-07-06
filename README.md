@@ -4,9 +4,8 @@
 
  <h2>💫 Sobre mim:</h2>
  
- - ☕ Trabalho como front-end e estou migrando também para o back-end.
+ - ☕ Desenvolvedor Estagiário Full-Stack.
  - 🌱 Atualmente estou estudando Java, JavaScript, React e SQL.
- - 🚀 Meu objetivo é ser um desenvolvedor Full Stack!
  - 📧 E-mail para contato: contato@bzsdigital.com.br
 
  <h2>🌐 Redes:</h2>
