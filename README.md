@@ -4,7 +4,7 @@
  
  - ☕ Desenvolvedor Full-Stack.
  - 🌱 Atualmente estou estudando React, Java e Banco de Dados.
- - 📧 E-mail para contato: contato@bzsdigital.com.br
+ - 📧 E-mail para contato: devbonatto@gmail.com
 
  <h2>🌐 Redes:</h2>
  
