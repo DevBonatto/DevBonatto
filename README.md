@@ -32,11 +32,9 @@
 <div align="center">
  <picture>
   <source
-  srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DevBonatto&layout=compact&theme=tokyonight&langs_count8"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DevBonatto&layout=pie&theme=tokyonight&langs_count8"
+  media="(prefers-color-scheme: dark)"
   />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DevBonatto&layout=compact&theme=tokyonight&langs_count8" />
  </picture>
 </div>
-
-
-
