@@ -1,6 +1,4 @@
-<div align="center">
 <h1> Olá <img height="40" width="40" class="cadeado" src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="Animação de um aceno">, me chamo Lucca Bonatto </h1>
-</div>
 
  <h2>💫 Sobre mim:</h2>
  
@@ -29,16 +27,14 @@
 
 <h2>📊 Status:</h2>
 
-<div align="center">
- <picture>
-  <source
+<picture>
+ <source
   srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DevBonatto&layout=compact&theme=tokyonight&langs_count8"
   media="(prefers-color-scheme: dark)"
-  />
-  <source
+ />
+ <source
   srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DevBonatto&layout=compact&theme=tokyonight&langs_count8"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DevBonatto&layout=compact&theme=tokyonight&langs_count8" />
- </picture>
-</div>
+ />
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DevBonatto&layout=compact&theme=tokyonight&langs_count8" />
+</picture>
