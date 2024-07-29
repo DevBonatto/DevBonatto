@@ -4,7 +4,7 @@
 
  <h2>💫 Sobre mim:</h2>
  
- - ☕ Desenvolvedor Estagiário Full-Stack.
+ - ☕ Desenvolvedor Full-Stack.
  - 🌱 Atualmente estou estudando React, Java e Banco de Dados.
  - 📧 E-mail para contato: contato@bzsdigital.com.br
 
