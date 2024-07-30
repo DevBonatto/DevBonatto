@@ -1,8 +1,10 @@
 <h1> Olá <img height="40" width="40" class="cadeado" src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="Animação de um aceno">, me chamo Lucca Bonatto </h1>
 
 <h2>💫 Sobre mim:</h2>
- - ☕ Desenvolvedor Full-Stack.
- - 🌱 Atualmente estou estudando React, Java e Banco de Dados.
+<div>
+  - ☕ Desenvolvedor Full-Stack.
+  - 🌱 Atualmente estou estudando React, Java e Banco de Dados.
+</div>
 
 <div>
  <h2> 💻 Skills: </h2>  
