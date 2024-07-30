@@ -1,17 +1,9 @@
 <h1> Olá <img height="40" width="40" class="cadeado" src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="Animação de um aceno">, me chamo Lucca Bonatto </h1>
 
- <h2>💫 Sobre mim:</h2>
+<h2>💫 Sobre mim:</h2>
  
  - ☕ Desenvolvedor Full-Stack.
  - 🌱 Atualmente estou estudando React, Java e Banco de Dados.
- - 📧 E-mail para contato: devbonatto@gmail.com
-
- <h2>🌐 Redes:</h2>
- 
- <div>
-  <a href="https://www.twitch.tv/devbonatto" target="_blank"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"></a> 
-  <a href="https://www.linkedin.com/in/luccabonatto/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
- </div>
 
 <div>
  <h2> 💻 Skills: </h2>  
