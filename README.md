@@ -1,13 +1,10 @@
 <h1> Olá <img height="40" width="40" class="cadeado" src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="Animação de um aceno">, me chamo Lucca Bonatto </h1>
 
 <h2>💫 Sobre mim:</h2>
+  - ☕ Tenho 23 anos e atualmente estou morando em São Paulo, SP. Trabalho na área de programação desde novembro/22 e cada dia que passa estou amando mais essa profissão. 
 <div>
-  - ☕ Desenvolvedor Full-Stack.
-  - 🌱 Atualmente estou estudando React, Java e Banco de Dados.
-</div>
-
-<div>
- <h2> 💻 Skills: </h2>  
+  
+ <h2> 💻 Possuo experiência em: </h2>  
  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
