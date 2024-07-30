@@ -27,6 +27,10 @@
  <a href="https://www.jetbrains.com/idea/"><img align="center" alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/></a>
 </div>
 
+<br/>
+<br/>
+<br/>
+
 <div align="center">
 <p align="centre"><b>Visitors Count</b></p>  
 <a href="https://profile-counter.glitch.me/{DevBonatto}/count.svg"><p align="center"><img align="center" src="https://profile-counter.glitch.me/{DevBonatto}/count.svg" /></p></a>
