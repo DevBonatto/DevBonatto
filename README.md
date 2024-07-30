@@ -14,7 +14,7 @@
 </div>
   
 ## Other Knowledge/Tools:
-<div style="display: inline-block; width: 300px;">
+<p style="display: inline-block; width: 300px;">
  <a href="https://www.atlassian.com/software/jira"><img align="center" alt="JIRA" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/></a>
  <a href="https://bitbucket.org/"><img align="center" alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white"/></a>
  <a href="https://git-scm.com/"><img align="center" alt="Git" src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032"/></a> 
@@ -25,7 +25,7 @@
  <a href="https://www.mysql.com/products/workbench/"><img align="center" alt="MySQL Workbench" src="https://img.shields.io/badge/MySQL%20Workbench-00618A?style=for-the-badge&logo=mysql&logoColor=white"/></a>
  <a href="https://dbeaver.io/"><img align="center" alt="DBeaver" src="https://img.shields.io/badge/DBeaver-6C3C9F?style=for-the-badge&logo=dbeaver&logoColor=white"/></a>
  <a href="https://www.docker.com/"><img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
-</div>
+</p>
 
 <br>
 <br>
