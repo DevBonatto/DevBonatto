@@ -16,7 +16,7 @@
 ## Other Knowledge/Tools:
 <div style="display: inline-block; width: 300px;">
  <a href="https://www.atlassian.com/software/jira"><img align="center" alt="JIRA" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/></a>
- <a href="https://bitbucket.org/"><img align="center" alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" /></a
+ <a href="https://bitbucket.org/"><img align="center" alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white"/></                                                                                                  <a href="https://git-scm.com/"><img align="center" alt="Git" src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032"/></a>
 </div>
 
 <div align="center">
