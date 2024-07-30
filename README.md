@@ -10,7 +10,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
   <a href="https://reactjs.org/"><img align="center" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
   <a href="https://www.java.com/" target="_blank"><img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/SQL"><img  align="center" src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/SQL"><img  align="center" src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=sql&logoColor=white" alt="SQL"></a>
 </div>
   
   
