@@ -22,15 +22,15 @@
  <a href="https://www.jetbrains.com/idea/"><img align="center" alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/></a>
  <a href="https://spring.io/tools"><img align="center" alt="Spring Tools" src="https://img.shields.io/badge/Spring%20Tools 4-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/></a>
  <a href="https://www.eclipse.org/"><img align="center" alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/></a>
- <br>
+ <br/>
  <a href="https://www.mysql.com/products/workbench/"><img align="center" alt="MySQL Workbench" src="https://img.shields.io/badge/MySQL%20Workbench-00618A?style=for-the-badge&logo=mysql&logoColor=white"/></a>
  <a href="https://dbeaver.io/"><img align="center" alt="DBeaver" src="https://img.shields.io/badge/DBeaver-6C3C9F?style=for-the-badge&logo=dbeaver&logoColor=white"/></a>
  <a href="https://www.docker.com/"><img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
 </div>
 
-<br>
-<br>
-<br>
+<br/>
+<br/>
+<br/>
 
 <div align="center">
 <p align="centre"><b>Visitors Count</b></p>  
