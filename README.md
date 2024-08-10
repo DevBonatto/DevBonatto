@@ -29,6 +29,7 @@
  <a href="https://code.visualstudio.com/"><img align="center" alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
  <a href="https://www.jetbrains.com/idea/"><img align="center" alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/></a>
  <a href="https://insomnia.rest/"><img align="center" alt="Insomnia" src="https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white"/></a>
+ <a href="https://www.notion.so/" target="_blank"><img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white"></a>
 </div>
 
 <br/>
