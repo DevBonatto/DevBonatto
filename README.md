@@ -12,6 +12,7 @@
   <a href="https://nodejs.org/"><img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/></a>
   <a href="https://www.java.com/" target="_blank"><img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=black"/></a>
   <a href="https://www.mysql.com/"><img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+  <a href="https://threejs.org/"><img align="center" alt="Three.js" src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/></a>
 </div>
   
 ## Other Knowledge/Tools:
