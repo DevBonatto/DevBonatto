@@ -47,8 +47,5 @@
   <img src="https://github-profile-trophy.vercel.app/?username=DevBonatto&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevBonatto/DevBonatto/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevBonatto/DevBonatto/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/DevBonatto/DevBonatto/output/github-snake.svg" />
-</picture>
+![Snake animation](https://raw.githubusercontent.com/DevBonatto/DevBonatto/output/github-snake.svg#gh-light-mode-only)
+![Snake animation](https://raw.githubusercontent.com/DevBonatto/DevBonatto/output/github-snake-dark.svg#gh-dark-mode-only)
