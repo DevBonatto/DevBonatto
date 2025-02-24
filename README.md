@@ -14,6 +14,8 @@
   <a href="https://nodejs.org/"><img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/></a>
   <a href="https://www.java.com/" target="_blank"><img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=black"/></a>
   <a href="https://www.mysql.com/"><img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+  <a href="https://www.docker.com/"><img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
+  <a href="https://git-scm.com/"><img align="center" alt="Git" src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032"/></a> 
 </div>
   
 ## Other Knowledge/Tools:
@@ -21,9 +23,7 @@
  <a href="https://www.atlassian.com/software/jira"><img align="center" alt="JIRA" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/></a>
  <a href="https://bitbucket.org/"><img align="center" alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white"/></a>
  <a href="https://www.atlassian.com/software/confluence"><img align="center" alt="Confluence" src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/></a>
- <a href="https://git-scm.com/"><img align="center" alt="Git" src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032"/></a> 
  <a href="https://www.sourcetreeapp.com/"><img align="center" alt="SourceTree" src="https://img.shields.io/badge/SourceTree-000000?style=for-the-badge&logo=sourcetree&logoColor=0052CC"/></a>
- <a href="https://www.docker.com/"><img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
  <a href="https://dbeaver.io/"><img align="center" alt="DBeaver" src="https://img.shields.io/badge/DBeaver-6C3C9F?style=for-the-badge&logo=dbeaver&logoColor=white"/></a>
  <a href="https://www.mysql.com/products/workbench/"><img align="center" alt="MySQL Workbench" src="https://img.shields.io/badge/MySQL%20Workbench-00618A?style=for-the-badge&logo=mysql&logoColor=white"/></a>
  <a href="https://www.beekeeperstudio.io/"><img align="center" alt="Beekeeper Studio" src="https://img.shields.io/badge/Beekeeper%20Studio-FCC624?style=for-the-badge&logo=beekeeper&logoColor=black"/></a>
