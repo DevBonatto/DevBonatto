@@ -40,7 +40,6 @@
 <br/>
 <br/>
 
-<p align="center"><b>Visitors Count</b></p>
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/DevBonatto&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false" />
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Rocket Launch" width="200"/>
 </p>
