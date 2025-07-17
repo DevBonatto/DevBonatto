@@ -41,5 +41,5 @@
 <br/>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Rocket Launch" width="200"/>
+  <img src="https://img.shields.io/badge/learning-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black&animation=progress" alt="Learning JS" />
 </p>
