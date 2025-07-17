@@ -40,4 +40,6 @@
 <br/>
 <br/>
 
-<img src="https://raw.githubusercontent.com/YourUser/YourRepo/main/loader.svg" alt="Loading" width="100" />
+<p align="center">
+  <img src="https://media.giphy.com/media/l41lVgxKwSLL4ZoU4/giphy.gif" alt="Coding Animation" width="600" />
+</p>
