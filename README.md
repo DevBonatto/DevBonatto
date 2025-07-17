@@ -40,6 +40,4 @@
 <br/>
 <br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/learning-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black&animation=progress" alt="Learning JS" />
-</p>
+<img src="https://raw.githubusercontent.com/YourUser/YourRepo/main/loader.svg" alt="Loading" width="100" />
