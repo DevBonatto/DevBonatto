@@ -41,5 +41,5 @@
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DevBonatto/assets/main/coding-animation.gif" alt="Coding Animation" width="300" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Coding Animation" width="600" />
 </p>
